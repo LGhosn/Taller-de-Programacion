@@ -1,0 +1,3 @@
+C es un lenguaje de programación originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell, como evolución del anterior lenguaje B, a su vez basado en BCPL.
+Al igual que B, es un lenguaje orientado a la implementación de Sistemas Operativos, concretamente Unix.
+C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear software de sistemas, aunque también se utiliza para crear aplicaciones.

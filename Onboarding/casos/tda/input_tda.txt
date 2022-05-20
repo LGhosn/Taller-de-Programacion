@@ -1,0 +1,1 @@
+El concepto de tipo de dato abstracto (TDA, Abstract Data Type), fue propuesto por primera vez hacia 1974 por John Guttag y otros, pero no fue hasta 1975 que por primera vez Liskov lo propuso para el lenguaje CLU.
